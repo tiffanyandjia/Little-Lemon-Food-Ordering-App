@@ -21,7 +21,7 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+
 
 ## Overview
 
@@ -39,10 +39,7 @@
 ![Onboarding](https://user-images.githubusercontent.com/108392678/217715066-19026169-ab51-450e-b21c-cc925940d03e.jpg)
 ![Profile and Home](https://user-images.githubusercontent.com/108392678/217715079-d66eb960-f5cf-4cdf-8f33-b45b320fca7e.jpg)
 
-### Links
 
-- Github: [Code](https://github.com/marventures/little-lemon-app)
-- Demo : Scan the [QR Code](https://expo.dev/@marventures/little-lemon-app) to see the demo.
 
 ## My process
 
